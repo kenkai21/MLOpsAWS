@@ -1,1 +1,94 @@
 [2023-10-04 17:00:22,216: INFO: main: Welocome to logging...........]
+[2023-10-04 18:21:55,644: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:21:55,647: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:23:07,498: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:23:07,500: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:24:00,227: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:24:00,229: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:24:10,399: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:24:10,402: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:25:26,329: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:25:26,331: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:25:27,594: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:25:27,596: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:36:30,991: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:36:30,994: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:38:10,260: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:38:10,261: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:38:19,134: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:38:19,137: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:42:30,664: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:42:30,667: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:42:33,792: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:42:33,794: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:43:19,823: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:43:19,825: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:47:22,558: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 18:47:22,561: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 18:47:22,564: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-04 18:47:22,604: INFO: common: created directory at: artifacts]
+[2023-10-04 18:47:22,622: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-04 18:47:23,323: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E87C:BE04:371654:38B7C5:651D9706
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 16:47:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230125-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696438024.685903,VS0,VE200
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: de7d1dfe3c76475f7b9d3561cc089adf43c62898
+Expires: Wed, 04 Oct 2023 16:52:03 GMT
+Source-Age: 0
+
+]
+[2023-10-04 19:20:07,815: INFO: main: Welocome to logging...........]
+[2023-10-04 19:20:07,816: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-04 19:20:07,819: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-04 19:20:07,820: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-04 19:20:07,821: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-04 19:20:07,821: INFO: common: created directory at: artifacts]
+[2023-10-04 19:20:07,822: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-04 19:20:08,416: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E87C:BE04:371654:38B7C5:651D9706
+Accept-Ranges: bytes
+Date: Wed, 04 Oct 2023 17:19:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230082-FRA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1696439989.833588,VS0,VE159
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b86405fdd6e817bd31b80b178607ddb6c148742f
+Expires: Wed, 04 Oct 2023 17:24:48 GMT
+Source-Age: 0
+
+]
+[2023-10-04 19:20:08,433: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
