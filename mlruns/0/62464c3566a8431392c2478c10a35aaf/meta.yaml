@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/Public/project/Project_Oct_2023/MLOpsAWS/mlruns/0/62464c3566a8431392c2478c10a35aaf/artifacts
+end_time: 1696769255924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62464c3566a8431392c2478c10a35aaf
+run_name: salty-stag-824
+run_uuid: 62464c3566a8431392c2478c10a35aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696769250383
+status: 3
+tags: []
+user_id: Ken
