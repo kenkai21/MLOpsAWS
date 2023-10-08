@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Users/Public/project/Project_Oct_2023/MLOpsAWS/mlruns/0/a8ae94db18d34e9c88cd2d950f9ac919/artifacts
+end_time: 1696778626079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8ae94db18d34e9c88cd2d950f9ac919
+run_name: fun-snake-502
+run_uuid: a8ae94db18d34e9c88cd2d950f9ac919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696778618540
+status: 3
+tags: []
+user_id: Ken
